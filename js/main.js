@@ -39,6 +39,8 @@ function areaOfCircle(r) {
 	return area;
 }
 
+areaOfCircle(9);
+
 // Write a function that will take one argument (a number) and perform the following operations, using the functions you wrote earlier1:
 // Take half of the number and store the result.
 // Square the result of #1 and store that result.
@@ -52,4 +54,4 @@ function calculator(num) {
 	var p = percentOf(c,s);
 }
 
-calculator(100);
+calculator(6);
